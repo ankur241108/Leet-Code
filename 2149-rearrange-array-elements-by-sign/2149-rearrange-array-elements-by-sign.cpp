@@ -2,31 +2,21 @@ class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
         int n=nums.size();
-        vector<int>arr1(n/2,0);
-        vector<int>arr2(n/2,0) ;
-        int j=0;
-        int k=0;
-
+        vector<int>ans(n,0);
+        int posindex=0;
+        int negindex=1;
         for(int i=0;i<n;i++){
             if(nums[i]<0){
-                arr1[j]=nums[i];
-                j++;
+                ans[negindex]=nums[i];
+                negindex+=2;
             }
+           
             else{
-                arr2[k]=nums[i];
-                k++;
+                ans[posindex]=nums[i];
+                posindex+=2;
             }
         }
 
-        for(int i=0;i<n;i++){
-            if(i%2==0){
-                nums[i]=arr2[i/2];
-            }
-            else{
-                nums[i]=arr1[i/2];
-            }
-        }
-
-        return nums;
+        return ans;
     }
 };
