@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankur241108/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankur241108/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
