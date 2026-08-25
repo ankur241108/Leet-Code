@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ankur241108/Leet-Code/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/ankur241108/Leet-Code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ankur241108/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ankur241108/Leet-Code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankur241108/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,9 +58,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankur241108/Leet-Code/tree/master/0048-rotate-image) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankur241108/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankur241108/Leet-Code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ankur241108/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
