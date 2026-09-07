@@ -4,22 +4,36 @@ public:
         int n=nums.size();
         int low=0;
         int high=n-1;
-        int ans=0 ;
+        int ans=n;
         while(low<=high){
             int mid=(low+high)/2;
-            if(nums[mid]==target){
-                ans=mid;
-                return ans;
-            }
+        //     if(nums[mid]==target){
+        //         ans=mid;
+        //         return ans;
+        //     }
 
-           else  if(nums[mid]<target){
-                ans=mid+1;
-                low=mid+1;
-            }
+        //    else  if(nums[mid]<target){
+        //         ans=mid+1;
+        //         low=mid+1;
+        //     }
 
-            else{
-                high=mid-1;
+        //     else{
+        //         high=mid-1;
+        //     }
+
+
+
+
+
+        if (nums[mid] >= target) {
+                // Potential answer found, try to go left
+                ans = mid;
+                high = mid - 1;
+            } else {
+                // Go right
+                low = mid + 1;
             }
+        
         }
         return ans;
     }
