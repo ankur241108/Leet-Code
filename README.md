@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ankur241108/Leet-Code/tree/master/0048-rotate-image) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ankur241108/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/ankur241108/Leet-Code/tree/master/3870-count-commas-in-range) |
 ## Matrix
 |  |
 | ------- |
