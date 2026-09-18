@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankur241108/Leet-Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankur241108/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ankur241108/Leet-Code/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ankur241108/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankur241108/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ankur241108/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ankur241108/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ankur241108/Leet-Code/tree/master/0229-majority-element-ii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ankur241108/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 ## Quicksort
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ankur241108/Leet-Code/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankur241108/Leet-Code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ankur241108/Leet-Code/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ankur241108/Leet-Code/tree/master/1552-magnetic-force-between-two-balls) |
 ## Interactive
 |  |
 | ------- |
