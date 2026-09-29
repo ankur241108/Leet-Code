@@ -14,7 +14,6 @@ public:
         ListNode*temp=head;
         ListNode*front=head;
         ListNode*prev=nullptr;
-        ListNode*mid=nullptr;
         ListNode*slow=head;
         ListNode*fast=head;
 
@@ -24,8 +23,8 @@ public:
             
         }
 
-        mid=slow;
-        temp=mid;
+     
+        temp=slow;
 
         while(temp!=nullptr){
             front=temp->next;
@@ -35,15 +34,15 @@ public:
 
         }
 
-        ListNode*tail=prev;
+       
         temp=head;
-        while(tail!=nullptr){
-            if(temp->val !=tail->val){
+        while(prev!=nullptr){
+            if(temp->val !=prev->val){
                 return false;
             }
 
             temp=temp->next;
-            tail=tail->next;
+            prev=prev->next;
         }
         return true;
     }
